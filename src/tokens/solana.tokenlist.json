@@ -20707,4 +20707,15 @@
     "website": "https://bricks.properties",
     "instagram": "https://instagram.com/bricksproperties"
   }
-}
+},{
+          "chainId":101,
+          "address":"8yCGcdYM5XVmPJgvUiLtUYZVYWjN6TRxHF9b6sypEXTD",
+          "symbol":"PAIN",
+          "name":"Pain Token",
+          "decimals":9,
+          "logoURI":"https://cdn.jsdelivr.net/gh/null0000000/PAINtoken/paintoken.png",
+           "tags": [],
+          "extensions": {
+             "discord":"https://discord.gg/enMVM7We"
+          }
+       }
